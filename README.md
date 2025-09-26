@@ -1,5 +1,5 @@
 <p align="center">
-<!--   <h1 align="center"><img src="assets/logo.png" width="256"></h1> -->
+  <h1 align="center"><img src="assets/logo.png" width="256"></h1>
   <h1 align="center">Spark: Synergistic Policy And Reward Co-Evolving Framework</h1>
     <p align="center">
     <a href="https://github.com/Liuziyu77"><strong>Ziyu Liu</strong></a>
