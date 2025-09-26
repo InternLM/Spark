@@ -1,7 +1,7 @@
 <p align="center">
 <!--   <h1 align="center"><img src="assets/logo.png" width="256"></h1> -->
   <h1 align="center">Spark: Synergistic Policy And Reward Co-Evolving Framework</h1>
-    <p align="center">
+    <!-- <p align="center">
     <a href="https://github.com/Liuziyu77"><strong>Ziyu Liu</strong></a>
     ·
     <a href="https://yuhangzang.github.io/"><strong>Yuhang Zang</strong></a>
@@ -17,7 +17,7 @@
      <a href="http://dahua.site/"><strong>Dahua Lin</strong></a>
     ·
      <a href="https://myownskyw7.github.io/"><strong>Jiaqi Wang</strong></a>
-  </p>
+  </p> -->
   <!-- <h2 align="center">Accepted By ICCV 2025!</h2> -->
 <!-- 🏠<a href="https://liuziyu77.github.io/MIA-DPO/">Homepage</a></h3>| -->
   📖<a href="https://arxiv.org/abs/2503.01785">Paper</a> |
