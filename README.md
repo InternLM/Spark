@@ -201,9 +201,7 @@ TBD
 License: Attribution-NonCommercial 4.0 International It should abide by the policy of OpenAI: https://openai.com/policies/terms-of-use
 
 ## Acknowledgement
-We sincerely thank projects <a href="https://github.com/TideDra/lmm-r1">lmm-r1</a> for providing their open-source resources.
-
-
+We sincerely thank projects <a href="https://github.com/TideDra/lmm-r1">lmm-r1</a> and <a href="https://github.com/OpenRLHF/OpenRLHF">OpenRLHF</a> for providing their open-source resources.
 
 
 
