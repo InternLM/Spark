@@ -20,8 +20,8 @@
   </p>
   <!-- <h2 align="center">Accepted By ICCV 2025!</h2> -->
 <!-- 🏠<a href="https://liuziyu77.github.io/MIA-DPO/">Homepage</a></h3>| -->
-  📖<a href="https://arxiv.org/abs/2503.01785">Paper</a> |
-  🤗<a href="https://huggingface.co/internlm/Spark-VL-7B">Models</a> | 🤗<a href="https://huggingface.co/datasets/internlm/Spark-Data">Datasets</a></h3> | 🤗<a href="https://huggingface.co/papers/2503.01785">Daily Paper</a></h3>
+  📖<a href="https://arxiv.org/abs/2509.22624">Paper</a> |
+  🤗<a href="https://huggingface.co/internlm/Spark-VL-7B">Models</a> | 🤗<a href="https://huggingface.co/datasets/internlm/Spark-Data">Datasets</a></h3> | 🤗<a href="https://arxiv.org/abs/2509.22624">Daily Paper</a></h3>
 <div align="center"></div>
 <p align="center">
   <p>
