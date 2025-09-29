@@ -37,7 +37,7 @@ We propose SPARK, <strong>a unified framework that integrates policy and reward 
 
 ## 📢 News
 - 🚀 [09/29/2025] We release our 🤗<a href="https://huggingface.co/datasets/internlm/Spark-Data">datasets</a>.
-- 🚀 [09/29/2025] We release our **Spark's** <a href="https://arxiv.org/abs/2503.01785">Paper</a>.
+- 🚀 [09/29/2025] We release our **Spark's** <a href="https://arxiv.org/abs/2509.22624">Paper</a>.
 - 🚀 [09/29/2025] We upload our evaluation code and model checkpoints.
 - 🚀 [09/29/2025] We release **Spark** repository.
 
