@@ -193,7 +193,12 @@ python calculate_acc.py --result_path ./your_result_path.json
 
 ## ✒️Citation
 ```
-TBD
+@article{liu2025spark,
+  title={SPARK: Synergistic Policy And Reward Co-Evolving Framework},
+  author={Liu, Ziyu and Zang, Yuhang and Ding, Shengyuan and Cao, Yuhang and Dong, Xiaoyi and Duan, Haodong and Lin, Dahua and Wang, Jiaqi},
+  journal={arXiv preprint arXiv:2509.22624},
+  year={2025}
+}
 ```
 
 ## 📄 License
