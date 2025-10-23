@@ -21,7 +21,7 @@
   <!-- <h2 align="center">Accepted By ICCV 2025!</h2> -->
 <!-- 🏠<a href="https://liuziyu77.github.io/MIA-DPO/">Homepage</a></h3>| -->
   📖<a href="https://arxiv.org/abs/2509.22624">Paper</a> |
-  🤗<a href="https://huggingface.co/internlm/Spark-VL-7B">Models</a> | 🤗<a href="https://huggingface.co/datasets/internlm/Spark-Data">Datasets</a></h3> | 🤗<a href="https://huggingface.co/papers/2509.22624">Daily Paper</a></h3>
+  🤗<a href="https://huggingface.co/internlm/Spark-VL-7B">Models</a> | 🤗<a href="https://huggingface.co/datasets/internlm/Spark-Data">Datasets</a></h3> | 🤗<a href="https://huggingface.co/papers/2509.22624">Daily Paper</a></h3> | 🤗<a href="https://huggingface.co/spaces/yuhangzang/spark">Huggingface Demo</a></h3>
 <div align="center"></div>
 <p align="center">
   <p>
@@ -29,6 +29,8 @@
 We propose SPARK, <strong>a unified framework that integrates policy and reward into a single model for joint and synchronous training</strong>. SPARK can automatically derive reward and reflection data from verifiable reward, enabling <strong>self-learning and self-evolution</strong>. Furthermore, we instantiate this framework on multiple backbones, training <strong>SPARK-VL-7B</strong>, <strong>SPARK-7B</strong>, and <strong>SPARK-VL-32B</strong>.
 
 ⭐ If you find our code or model helpful, please consider giving us a star — your support means a lot!
+
+🌈 Try our demo on 🤗<a href="https://huggingface.co/spaces/yuhangzang/spark">Huggingface Demo</a></h3>
   </p>
 <!--     <a href="">
       <img src="assets/teaser.png" alt="Logo" width="100%"> 
@@ -36,6 +38,7 @@ We propose SPARK, <strong>a unified framework that integrates policy and reward 
 <br>
 
 ## 📢 News
+- 🚀 [10/23/2025] Try our demo on 🤗<a href="https://huggingface.co/spaces/yuhangzang/spark">Huggingface Demo</a></h3>
 - 🚀 [09/29/2025] We release our 🤗<a href="https://huggingface.co/datasets/internlm/Spark-Data">datasets</a>.
 - 🚀 [09/29/2025] We release our **Spark's** <a href="https://arxiv.org/abs/2509.22624">Paper</a>.
 - 🚀 [09/29/2025] We upload our evaluation code and model checkpoints.
